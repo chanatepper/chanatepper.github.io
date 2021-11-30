@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Life insurance should not be used as an investment vehicle
 
-AVC advisory takes a position against life insurance used as an investment vehicle
+I take a position against life insurance used as an investment vehicle
 because it is costlier, less practical, and riskier than keeping your insurance and savings plans
 separate. Cash value, or cash accumulation policies encourage consumers to hold “cash value” in
 a savings account that earns interest. This cash value is separate from face amount or death
